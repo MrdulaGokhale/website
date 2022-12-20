@@ -1,2 +1,4 @@
 This is first release of feature1
 changed dockerfile for release2
+simply changed release
+just as it is
